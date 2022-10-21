@@ -1,11 +1,19 @@
-body {
-    background: #CCCCCC
+body{
+    background: #CCCCCC;
 }
 
-p {
+h1{
+
     text-align: center;
 }
 
-em strong {
-    color: #FF0000;
+p{
+    text-align: center;
+}
+
+#missao{
+    font-size: 20px;
+}
+em estrong{
+    color: #ff0000;
 }
